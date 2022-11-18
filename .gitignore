@@ -1,0 +1,5 @@
+/build/
+/dist/
+/input/*.tlx
+/tiliawrangler.spec
+/.idea/
